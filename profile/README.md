@@ -2,6 +2,8 @@
 
 Open source, plugin-driven, Civilization clone, written in TypeScript.
 
+[Try it online!](https://civ-clone.github.io/)
+
 ## Aims
 
 The aims for this project are to:
