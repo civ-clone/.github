@@ -42,8 +42,7 @@ The world generation is currently pretty rudimentary, but would be easy to repla
 
 ### Missing features
 
-- Diplomatic negotiation (and `Diplomat`s)
-- `Caravan`s and trade routes
+- `Diplomat`s, `Caravan`s and trade routes
 - Save and load
 - Choosing the worked tiles in a city and employing entertainers/tax men/scientists
 - Selling city improvements
@@ -74,6 +73,7 @@ The world generation is currently pretty rudimentary, but would be easy to repla
 - Change the `Tax`, `Research`, `Luxuries` rates
 - Play on Earth
 - Some charts and civilization-wide breakdowns/info
+- Diplomatic negotiations with AI players (very basic, peace is always accepted and adhered to)
 
 ## Get in touch
 
