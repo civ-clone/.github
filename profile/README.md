@@ -2,7 +2,7 @@
 
 Open source, plugin-driven, Civilization clone, written in TypeScript.
 
-Play online at https://civ-cl.one/ (Original game files required!)
+Play online at https://civ.one/ (Original game files required!)
 
 ## Aims
 
